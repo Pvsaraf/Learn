@@ -1,6 +1,6 @@
 //Name: Saraf Parth Vikrant
 //Roll No.: 19EE30029
-//Week 4
+//Week 4(harder)
 
 #include<stdio.h>
 #include<stdlib.h>
